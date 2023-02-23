@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/">
+        <file>resources/node-selected.svg</file>
+        <file>resources/node-unselected.svg</file>
+        <file>resources/search.svg</file>
+        <file>resources/selectTool.svg</file>
+        <file>resources/path-selected.svg</file>
+        <file>resources/pathTool.svg</file>
+        <file>resources/path-unselected.svg</file>
+        <file>resources/swap.svg</file>
+        <file>resources/logo.svg</file>
+        <file>resources/down_arrow.svg</file>
+        <file>resources/close.svg</file>
+        <file>resources/maxmium.svg</file>
+        <file>resources/minimum.svg</file>
+    </qresource>
+</RCC>
